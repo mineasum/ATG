@@ -1,0 +1,538 @@
+[20121015 93443] atg - Create pthread number 2000
+[20121015 93443] atg - Create thread count 2000
+[20121015 93443] atg - Initial
+[20121015 93443] atg - Server Info:192.168.12.160:5555
+[20121015 93530] atg - Create pthread number 2000
+[20121015 93530] atg - Create thread count 2000
+[20121015 93530] atg - Initial
+[20121015 93530] atg - Server Info:192.168.12.160:6666
+[20121015 93533] atg - Close ArgSrv
+[20121015 93534] atg - accept() error
+[20121015 93659] atg - Create pthread number 2000
+[20121015 93659] atg - Create thread count 2000
+[20121015 93659] atg - Initial
+[20121015 93659] atg - Server Info:192.168.12.160:6666
+[20121015 93711] atg - GetFreeConn=0
+[20121015 93711] atg - Connect id 5.
+[20121015 94555] atg - Close ArgSrv
+[20121015 94556] atg - Close ArgSrv
+[20121015 94556] atg - accept() error
+[20121015 94559] atg - Create pthread number 2000
+[20121015 94559] atg - Create thread count 2000
+[20121015 94559] atg - Initial
+[20121015 94559] atg - Server Info:192.168.12.160:6666
+[20121015 94559] atg - bind() error
+[20121015 94559] atg - accept() error
+[20121015 94600] atg - Create pthread number 2000
+[20121015 94600] atg - Create thread count 2000
+[20121015 94600] atg - Initial
+[20121015 94600] atg - Server Info:192.168.12.160:6666
+[20121015 94600] atg - bind() error
+[20121015 94600] atg - accept() error
+[20121015 94744] atg - Create pthread number 2000
+[20121015 94744] atg - Create thread count 2000
+[20121015 94744] atg - Initial
+[20121015 94744] atg - Server Info:192.168.12.160:6666
+[20121015 94748] atg - GetFreeConn=0
+[20121015 94748] atg - Connect id 5.
+[20121015 95049] atg - Close ArgSrv
+[20121015 95050] atg - accept() error
+[20121015 95053] atg - Create pthread number 2000
+[20121015 95053] atg - Create thread count 2000
+[20121015 95053] atg - Initial
+[20121015 95053] atg - Server Info:192.168.12.160:6666
+[20121015 95053] atg - bind() error
+[20121015 95053] atg - accept() error
+[20121015 95054] atg - Create pthread number 2000
+[20121015 95054] atg - Create thread count 2000
+[20121015 95054] atg - Initial
+[20121015 95054] atg - Server Info:192.168.12.160:6666
+[20121015 95054] atg - bind() error
+[20121015 95054] atg - accept() error
+[20121015 95102] atg - Create pthread number 2000
+[20121015 95102] atg - Create thread count 2000
+[20121015 95102] atg - Initial
+[20121015 95102] atg - Server Info:192.168.12.160:6666
+[20121015 95102] atg - bind() error
+[20121015 95102] atg - accept() error
+[20121015 95829] atg - Create pthread number 2000
+[20121015 95829] atg - Create thread count 2000
+[20121015 95829] atg - Initial
+[20121015 95829] atg - Server Info:192.168.12.160:6666
+[20121015 95830] atg - Close ArgSrv
+[20121015 100009] atg - Create pthread number 2000
+[20121015 100010] atg - Create thread count 2000
+[20121015 100010] atg - Initial
+[20121015 100010] atg - Server Info:192.168.12.160:6666
+[20121015 100011] atg - Close ArgSrv
+[20121015 100155] atg - Create pthread number 2000
+[20121015 100156] atg - Create thread count 2000
+[20121015 100156] atg - Initial
+[20121015 100156] atg - Server Info:192.168.12.160:6666
+[20121015 100157] atg - Close ArgSrv
+[20121015 100201] atg - Create pthread number 2000
+[20121015 100201] atg - Create thread count 2000
+[20121015 100201] atg - Initial
+[20121015 100201] atg - Server Info:192.168.12.160:6666
+[20121015 100204] atg - Close ArgSrv
+[20121015 100205] atg - accept() error
+[20121015 100207] atg - Create pthread number 2000
+[20121015 100207] atg - Create thread count 2000
+[20121015 100207] atg - Initial
+[20121015 100207] atg - Server Info:192.168.12.160:5555
+[20121015 100216] atg - GetFreeConn=0
+[20121015 100216] atg - Connect id 5.
+[20121015 100231] atg - Close ArgSrv
+[20121015 100231] atg - Close id=5
+[20121015 100236] atg - Create pthread number 2000
+[20121015 100236] atg - Create thread count 2000
+[20121015 100236] atg - Initial
+[20121015 100236] atg - Server Info:192.168.12.160:6666
+[20121015 100236] atg - bind() error
+[20121015 100238] atg - Create pthread number 2000
+[20121015 100238] atg - Create thread count 2000
+[20121015 100238] atg - Initial
+[20121015 100238] atg - Server Info:192.168.12.160:6666
+[20121015 100238] atg - bind() error
+[20121015 100239] atg - Create pthread number 2000
+[20121015 100240] atg - Create thread count 2000
+[20121015 100240] atg - Initial
+[20121015 100240] atg - Server Info:192.168.12.160:6666
+[20121015 100240] atg - bind() error
+[20121015 100240] atg - Create pthread number 2000
+[20121015 100240] atg - Create thread count 2000
+[20121015 100240] atg - Initial
+[20121015 100240] atg - Server Info:192.168.12.160:6666
+[20121015 100240] atg - bind() error
+[20121015 100242] atg - Create pthread number 2000
+[20121015 100242] atg - Create thread count 2000
+[20121015 100242] atg - Initial
+[20121015 100242] atg - Server Info:192.168.12.160:6666
+[20121015 100242] atg - bind() error
+[20121015 100243] atg - Create pthread number 2000
+[20121015 100243] atg - Create thread count 2000
+[20121015 100243] atg - Initial
+[20121015 100243] atg - Server Info:192.168.12.160:6666
+[20121015 100243] atg - bind() error
+[20121015 100244] atg - Create pthread number 2000
+[20121015 100244] atg - Create thread count 2000
+[20121015 100244] atg - Initial
+[20121015 100244] atg - Server Info:192.168.12.160:6666
+[20121015 100244] atg - bind() error
+[20121015 100244] atg - Create pthread number 2000
+[20121015 100245] atg - Create thread count 2000
+[20121015 100245] atg - Initial
+[20121015 100245] atg - Server Info:192.168.12.160:6666
+[20121015 100245] atg - bind() error
+[20121015 100256] atg - Create pthread number 2000
+[20121015 100256] atg - Create thread count 2000
+[20121015 100256] atg - Initial
+[20121015 100256] atg - Server Info:192.168.12.160:6666
+[20121015 100256] atg - bind() error
+[20121015 100256] atg - accept() error
+[20121015 100529] atg - Create pthread number 2000
+[20121015 100529] atg - Create thread count 2000
+[20121015 100529] atg - Initial
+[20121015 100529] atg - Server Info:192.168.12.160:6666
+[20121015 100533] atg - Close ArgSrv
+[20121015 100534] atg - accept() error
+[20121015 100536] atg - Create pthread number 2000
+[20121015 100536] atg - Create thread count 2000
+[20121015 100536] atg - Initial
+[20121015 100536] atg - Server Info:192.168.12.160:6666
+[20121015 100540] atg - Close ArgSrv
+[20121015 100541] atg - accept() error
+[20121015 100545] atg - Create pthread number 2000
+[20121015 100545] atg - Create thread count 2000
+[20121015 100545] atg - Initial
+[20121015 100545] atg - Server Info:192.168.12.160:6666
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - GetFreeConn=0
+[20121015 102046] atg - Connect id 5.
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 102046] atg - Close ArgSrv
+[20121015 111417] atg - Create pthread number 20
+[20121015 111417] atg - Create thread count 20
+[20121015 111417] atg - Initial
+[20121015 111417] atg - Server Info:192.168.12.160:5555
+[20121015 111430] atg - GetFreeConn=0
+[20121015 111430] atg - Connect id 5.
+[20121015 111451] atg - Close ArgSrv
+[20121015 111451] atg - Close id=5
+[20121015 111452] atg - accept() error
+[20121015 111455] atg - Create pthread number 20
+[20121015 111455] atg - Create thread count 20
+[20121015 111455] atg - Initial
+[20121015 111455] atg - Server Info:192.168.12.160:5555
+[20121015 111459] atg - Close ArgSrv
+[20121015 111500] atg - accept() error
+[20121015 111500] atg - Create pthread number 20
+[20121015 111500] atg - Create thread count 20
+[20121015 111500] atg - Initial
+[20121015 111500] atg - Server Info:192.168.12.160:5555
+[20121015 111503] atg - GetFreeConn=0
+[20121015 111503] atg - Connect id 5.
+[20121015 111707] atg - Close ArgSrv
+[20121015 111707] atg - Close id=5
+[20121015 111708] atg - accept() error
+[20121015 111710] atg - Create pthread number 20
+[20121015 111710] atg - Create thread count 20
+[20121015 111710] atg - Initial
+[20121015 111710] atg - Server Info:192.168.12.160:5555
+[20121015 113254] atg - GetFreeConn=0
+[20121015 113254] atg - Connect id 5.
+[20121015 113300] atg - Close id=5
+[20121015 113607] atg - Close ArgSrv
+[20121015 113608] atg - accept() error
+[20121015 113610] atg - Create pthread number 20
+[20121015 113610] atg - Create thread count 20
+[20121015 113610] atg - Initial
+[20121015 113610] atg - Server Info:192.168.12.160:5555
+[20121015 113700] atg - Close ArgSrv
+[20121015 113701] atg - accept() error
+[20121015 113706] atg - Create pthread number 20
+[20121015 113706] atg - Create thread count 20
+[20121015 113706] atg - Initial
+[20121015 113706] atg - Server Info:192.168.12.160:5555
+[20121015 113759] atg - Close ArgSrv
+[20121015 113800] atg - accept() error
+[20121015 113802] atg - Create pthread number 20
+[20121015 113802] atg - Create thread count 20
+[20121015 113802] atg - Initial
+[20121015 113802] atg - Server Info:192.168.12.160:5555
+[20121015 113808] atg - GetFreeConn=0
+[20121015 113808] atg - Connect id 5.
+[20121015 114132] atg - Close ArgSrv
+[20121015 114132] atg - Close id=5
+[20121015 114133] atg - accept() error
+[20121015 114137] atg - Create pthread number 20
+[20121015 114137] atg - Create thread count 20
+[20121015 114137] atg - Initial
+[20121015 114137] atg - Server Info:192.168.12.160:5555
+[20121015 114142] atg - GetFreeConn=0
+[20121015 114142] atg - Connect id 5.
+[20121015 114144] atg - Close id=5
+[20121015 114159] atg - Close ArgSrv
+[20121015 114200] atg - accept() error
+[20121015 114202] atg - Create pthread number 20
+[20121015 114202] atg - Create thread count 20
+[20121015 114202] atg - Initial
+[20121015 114202] atg - Server Info:192.168.12.160:5555
+[20121015 114314] atg - Close ArgSrv
+[20121015 114315] atg - accept() error
+[20121015 114324] atg - Create pthread number 20
+[20121015 114324] atg - Create thread count 20
+[20121015 114324] atg - Initial
+[20121015 114324] atg - Server Info:192.168.12.160:5555
+[20121015 114326] atg - GetFreeConn=0
+[20121015 114326] atg - Connect id 5.
+[20121015 114329] atg - Close id=5
+[20121015 114340] atg - GetFreeConn=0
+[20121015 114340] atg - Connect id 6.
+[20121015 114343] atg - Close id=6
+[20121015 114442] atg - Close ArgSrv
+[20121015 114443] atg - accept() error
+[20121015 114446] atg - Create pthread number 20
+[20121015 114446] atg - Create thread count 20
+[20121015 114446] atg - Initial
+[20121015 114446] atg - Server Info:192.168.12.160:5555
+[20121015 114448] atg - Close ArgSrv
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - Close id=0
+[20121015 114448] atg - accept() error
+[20121015 114452] atg - Create pthread number 20
+[20121015 114452] atg - Create thread count 20
+[20121015 114452] atg - Initial
+[20121015 114452] atg - Server Info:192.168.12.160:5555
+[20121015 114454] atg - Close ArgSrv
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - Close id=0
+[20121015 114454] atg - accept() error
+[20121015 114524] atg - Create pthread number 20
+[20121015 114524] atg - Create thread count 20
+[20121015 114524] atg - Initial
+[20121015 114524] atg - Server Info:192.168.12.160:5555
+[20121015 114526] atg - Close ArgSrv
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - Close id=0
+[20121015 114526] atg - accept() error
+[20121015 114604] atg - Create pthread number 20
+[20121015 114604] atg - Create thread count 20
+[20121015 114604] atg - Initial
+[20121015 114604] atg - Server Info:192.168.12.160:5555
+[20121015 114605] atg - Close ArgSrv
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - Close id=0
+[20121015 114605] atg - accept() error
+[20121015 114608] atg - Create pthread number 20
+[20121015 114608] atg - Create thread count 20
+[20121015 114608] atg - Initial
+[20121015 114608] atg - Server Info:192.168.12.160:5555
+[20121015 114610] atg - Close ArgSrv
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - Close id=0
+[20121015 114610] atg - accept() error
+[20121015 114622] atg - Create pthread number 20
+[20121015 114622] atg - Create thread count 20
+[20121015 114622] atg - Initial
+[20121015 114622] atg - Server Info:192.168.12.160:5555
+[20121015 114624] atg - Close ArgSrv
+[20121015 114624] atg - accept() error
+[20121015 114709] atg - Create pthread number 20
+[20121015 114709] atg - Create thread count 20
+[20121015 114709] atg - Initial
+[20121015 114709] atg - Server Info:192.168.12.160:5555
+[20121015 114718] atg - GetFreeConn=0
+[20121015 114718] atg - Connect id 5.
+[20121015 114722] atg - Close id=5
+[20121015 114726] atg - GetFreeConn=0
+[20121015 114726] atg - Connect id 6.
+[20121015 114728] atg - GetFreeConn=1
+[20121015 114728] atg - Connect id 7.
+[20121015 114730] atg - Close id=6
+[20121015 114732] atg - Close id=7
+[20121015 114959] atg - Close ArgSrv
+[20121015 114959] atg - accept() error
+[20121015 115021] atg - Create pthread number 20
+[20121015 115021] atg - Create thread count 20
+[20121015 115021] atg - Initial
+[20121015 115021] atg - Server Info:192.168.12.160:5555
+[20121015 115048] atg - Close ArgSrv
+[20121015 115048] atg - accept() error
+[20121015 115049] atg - Create pthread number 20
+[20121015 115049] atg - Create thread count 20
+[20121015 115049] atg - Initial
+[20121015 115049] atg - Server Info:192.168.12.160:5555
+[20121015 115221] atg - Close ArgSrv
+[20121015 115221] atg - accept() error
+[20121015 115223] atg - Create pthread number 20
+[20121015 115223] atg - Initial
+[20121015 115223] atg - Server Info:192.168.12.160:5555
+[20121015 115244] atg - Close ArgSrv
+[20121015 115244] atg - accept() error
+[20121015 115443] atg - Create pthread number 20
+[20121015 115443] atg - Initial
+[20121015 115443] atg - Server Info:192.168.12.160:5555
+[20121015 115447] atg - GetFreeConn=0
+[20121015 115447] atg - Connect id 5.
+[20121015 115450] atg - Close id=5
+[20121015 115453] atg - GetFreeConn=0
+[20121015 115453] atg - Connect id 6.
+[20121015 115456] atg - Close id=6
+[20121015 115539] atg - GetFreeConn=0
+[20121015 115539] atg - Connect id 5.
+[20121015 115542] atg - Close id=5
+[20121015 115545] atg - Close ArgSrv
+[20121015 115545] atg - accept() error
+[20121015 115548] atg - Create pthread number 20
+[20121015 115548] atg - Initial
+[20121015 115548] atg - Server Info:192.168.12.160:5555
+[20121015 115550] atg - GetFreeConn=0
+[20121015 115550] atg - Connect id 5.
+[20121015 115627] atg - Close ArgSrv
+[20121015 115627] atg - Close id=5
+[20121015 115627] atg - accept() error
+[20121015 115629] atg - Create pthread number 20
+[20121015 115629] atg - Initial
+[20121015 115629] atg - Server Info:192.168.12.160:5555
+[20121015 115630] atg - GetFreeConn=0
+[20121015 115630] atg - Connect id 5.
+[20121015 115646] atg - Close ArgSrv
+[20121015 115646] atg - Close id=5
+[20121015 115646] atg - accept() error
+[20121015 115647] atg - Create pthread number 20
+[20121015 115647] atg - Initial
+[20121015 115647] atg - Server Info:192.168.12.160:5555
+[20121015 130855] atg - GetFreeConn=0
+[20121015 130855] atg - Connect id 5.
+[20121015 132535] atg - Close id=5
+[20121015 140135] atg - GetFreeConn=0
+[20121015 140135] atg - Connect id 6.
+[20121015 141815] atg - Close id=6
+[20121015 144138] atg - Close ArgSrv
+[20121015 144138] atg - accept() error
+[20121015 144139] atg - Create pthread number 20
+[20121015 144139] atg - Initial
+[20121015 144139] atg - Server Info:192.168.12.160:5555
